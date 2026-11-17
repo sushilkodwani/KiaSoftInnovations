@@ -6,7 +6,7 @@ export const site = {
   tagline: 'Microsoft 365 design, development and support',
 
   // TODO: confirm this mailbox exists on your domain before launch.
-  email: 'info@kiasoftinnovations.com',
+  email: 'admin@kiasoftinnovations.com',
 
   // Optional. Leave empty to hide. Example: 'https://www.linkedin.com/company/your-page'
   linkedin: '',
